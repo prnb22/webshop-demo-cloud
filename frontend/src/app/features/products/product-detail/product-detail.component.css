@@ -1,0 +1,8 @@
+#product-details header {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background-color: var(--color-gray-600);
+    gap: 2rem;
+    border-radius: 6px;
+  }
+  
